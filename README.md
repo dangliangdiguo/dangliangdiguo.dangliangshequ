@@ -5,7 +5,7 @@
 我们准备开发一款游戏，名为《当量帝国超级战斗》，可惜我们一直没有时间。
 大约2030年左右，我们会登录抖音和Bilibili拍拍视频，希望那时有人还记得我。
 目前本网站不太出名。希望有人看到。
-点击此处到达主页。点击此处到达拦路小丑专区。
+点击此处到达主页。点击此处到达拦路小丑专区。https://github.com/dangliangdiguo/lanluxiaochou/blob/main/README.md
 <script type="text/javascript" src="busuanzi.js"></script> <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"> </script> 
 总访问量：
  本站访客数人 
